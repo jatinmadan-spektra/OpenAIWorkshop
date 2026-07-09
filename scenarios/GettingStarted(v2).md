@@ -16,19 +16,19 @@ Your virtual machine is your workhorse throughout the workshop. The lab guide is
  
 To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab.
  
-   ![](media/miw(3-3).png)
+   ![](media/env-new.png)
  
 ## **Utilizing the Split Window Feature**
  
 For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the Top right corner.
  
-   ![](media/labguide-1-1.png)
+   ![](media/splitwin01.png)
  
 ## **Managing Your Virtual Machine**
  
 Feel free to start, stop, or restart your virtual machine as needed from the **Resources** tab. Your experience is in your hands!
  
-  ![](media/res-1.png)
+  ![](media/RT1.png)
  
 ## **Let's Get Started with Azure Portal**
 
@@ -60,7 +60,7 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
    
 1. Confirm you have a resource groups present as shown in the below screenshot. The last six digits in the resource group name are unique for every user.
 
-    ![](media/openai1.png "Resource groups")
+    ![](media/rg-a.png "Resource groups")
    
 1. Now, click on Next from the lower right corner to move to the next page.
 

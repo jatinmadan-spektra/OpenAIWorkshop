@@ -39,11 +39,11 @@ You will be able to complete the following tasks:
       - openaistorage<inject key="DeploymentID" enableCopy="false"></inject>
     - **File share**: Create a new file share **(4)**
 
-      ![](images/10-06-2024(3).png)
+      ![](images/blur-1.png)
 
 6. Enter the file share name as **blob (1)**, select **OK**, and click on **Select (2)**.
 
-    ![](images/10-06-2024(4).png)
+    ![](images/blur-2.png)
 
 7.  Once the storage account is created, you will be prompted with the Bash window, as shown in the below screenshot.
     
@@ -95,6 +95,8 @@ You will be able to complete the following tasks:
     pip install -r reqs.txt
     ```
     > **Note**: If you encounter the "Conda: command not found" error, close your current CloudShell session, start a new bash session, and try running the commands from step 6 again.
+
+    >**Note:** If pip install -r reqs.txt fails due to a permissions error, run pip install --user -r reqs.txt instead
     
 1. Type **y** and hit enter to proceed.
 
@@ -160,7 +162,7 @@ You will be able to complete the following tasks:
 
    ![](images/image(4).png)
    
-7. Once the resource is deployed click on **Go to resource group**
+7. Once the resource is deployed click on **Go to resource group**. 
 
    ![](images/image(5).png)
 
